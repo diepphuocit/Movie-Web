@@ -1,6 +1,6 @@
 import {HelpCircle, LogOut, Search, Settings} from 'lucide-react';
 import React from 'react'
-import Logo from '../assets/Logo.jpg'
+import Logo from '../assets/logo.png'
 import { Link } from 'react-router';
 import { useAuthStore } from '../store/authStore';
 import { useState } from 'react';
